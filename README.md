@@ -63,7 +63,7 @@ The following commands are the easiest way to run this web project.
 pip install -r requirements.txt
 ```
 
-**Tips: I strongly suggest you to create a new venv before installing these python libs. Commands are below: ** 
+**Tips: I strongly suggest you to create a new venv before installing these python libs. Commands are below.**
 
 ```python
 # create virtual environment "test"
