@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="caa9b0c4-482f-49d1-baf3-dffc1ebeb9cd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kEW7RQtIN1rwwZo6nrrP8Q8rQp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../BioProject/Scrapy Tutorial/drug" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.other" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\xyf\Desktop\Python Code\funny demo\Django\mysite\mysite" />
+      <recent name="C:\Users\xyf\Desktop\Python Code\funny demo\Django\mysite\templates" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="mysite" type="Python.DjangoServer" factoryName="Django server">
+      <module name="mysite" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="caa9b0c4-482f-49d1-baf3-dffc1ebeb9cd" name="Default Changelist" comment="" />
+      <created>1605266063229</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605266063229</updated>
+      <workItem from="1605266106818" duration="5642000" />
+      <workItem from="1605431334562" duration="112000" />
+      <workItem from="1605431459217" duration="173000" />
+      <workItem from="1606529158266" duration="98000" />
+      <workItem from="1606804177851" duration="595000" />
+      <workItem from="1606824031102" duration="139000" />
+      <workItem from="1606872766419" duration="5295000" />
+      <workItem from="1606980690434" duration="4899000" />
+      <workItem from="1607001247697" duration="7347000" />
+      <workItem from="1607138883676" duration="10561000" />
+      <workItem from="1607163328322" duration="16132000" />
+      <workItem from="1607222035375" duration="25072000" />
+      <workItem from="1607322169486" duration="12155000" />
+      <workItem from="1607398717444" duration="4076000" />
+      <workItem from="1607406156489" duration="916000" />
+      <workItem from="1607422388027" duration="4919000" />
+      <workItem from="1607479727900" duration="18660000" />
+      <workItem from="1607528345818" duration="207000" />
+      <workItem from="1607614642878" duration="1514000" />
+      <workItem from="1607653159181" duration="1308000" />
+      <workItem from="1607654561559" duration="21270000" />
+      <workItem from="1607689193768" duration="9638000" />
+      <workItem from="1607742149617" duration="4560000" />
+      <workItem from="1608207717227" duration="602000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="476" y="144" key="#Inspections" timestamp="1607691423828">
+      <screen x="0" y="0" width="1707" height="960" />
+    </state>
+    <state x="428" y="130" key="#Inspections/0.0.1536.864@0.0.1536.864" timestamp="1607661928808" />
+    <state x="476" y="144" key="#Inspections/0.0.1707.960@0.0.1707.960" timestamp="1607691423828" />
+    <state x="579" y="316" width="799" height="446" key="#Notifications" timestamp="1607405811593">
+      <screen x="0" y="0" width="1440" height="960" />
+    </state>
+    <state x="579" y="316" width="799" height="446" key="#Notifications/0.0.1440.960@0.0.1440.960" timestamp="1607405811593" />
+    <state x="568" y="261" key="FileChooserDialogImpl" timestamp="1606824168148">
+      <screen x="0" y="0" width="1707" height="960" />
+    </state>
+    <state x="479" y="261" key="FileChooserDialogImpl/0.0.1440.960@0.0.1440.960" timestamp="1605431617294" />
+    <state x="568" y="261" key="FileChooserDialogImpl/0.0.1707.960@0.0.1707.960" timestamp="1606824168148" />
+    <state x="128" y="76" key="SettingsEditor" timestamp="1607407447871">
+      <screen x="0" y="0" width="1440" height="960" />
+    </state>
+    <state x="128" y="76" key="SettingsEditor/0.0.1440.960@0.0.1440.960" timestamp="1607407447871" />
+    <state x="152" y="78" key="SettingsEditor/0.0.1707.960@0.0.1707.960" timestamp="1607175440993" />
+    <state x="346" y="142" width="1350" height="678" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1607654742362">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="346" y="142" width="1350" height="678" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1536.864@0.0.1536.864" timestamp="1607654742362" />
+    <state x="484" y="375" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607405800813">
+      <screen x="0" y="0" width="1440" height="960" />
+    </state>
+    <state x="484" y="375" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.960@0.0.1440.960" timestamp="1607405800813" />
+    <state x="465" y="4" width="775" height="956" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1606993857705">
+      <screen x="0" y="0" width="1707" height="960" />
+    </state>
+    <state x="392" y="366" width="613" height="281" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1440.960@0.0.1440.960" timestamp="1605431620619" />
+    <state x="465" y="4" width="775" height="956" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1707.960@0.0.1707.960" timestamp="1606993857705" />
+    <state x="432" y="0" width="840" height="958" key="search.everywhere.popup" timestamp="1607744809473">
+      <screen x="0" y="0" width="1707" height="960" />
+    </state>
+    <state x="389" y="0" width="840" height="863" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1607671093063" />
+    <state x="432" y="0" width="840" height="958" key="search.everywhere.popup/0.0.1707.960@0.0.1707.960" timestamp="1607744809473" />
+  </component>
+</project>

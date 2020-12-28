@@ -1,0 +1,19 @@
+<div class="bg-info">
+    <div class="text-center" style="margin-top: 5px">
+        <h4>Article</h4>
+        <p><a href="{% url 'article:article_column' %}">Column Management</a></p>
+        <p><a href="{% url 'article:article_post' %}">Post Articles</a></p>
+        <p><a href="{% url 'article:article_list' %}">Articles List</a></p>
+        <p><a href="{% url 'article:article_tag' %}">Articles Label</a></p>
+    </div>
+    <hr>
+    <div class="text-center" style="margin-top: 5px">
+        <h4>Image</h4>
+        <p><a href="{% url 'image:list_images' %}">Image Management</a></p>
+    </div>
+    <div class="text-center" style="margin-top: 5px">
+        <h4>Course</h4>
+        <p><a href="{% url 'course:manage_course' %}">Course Management</a></p>
+        <p><a href="{% url 'course:create_lesson' %}">Post Lessons</a></p>
+    </div>
+</div>

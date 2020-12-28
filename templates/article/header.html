@@ -1,0 +1,19 @@
+{% load staticfiles %}
+<div class="container">
+    <nav class="navbar navbar-default" role="navigation">
+        <div class="navbar-header" style="margin: 10px">
+            <img width="80px" src="{% static 'images/backlogo.png' %}"></div>
+        <div>
+            <ul class="nav navbar-nav" role="tablist">
+                <li><a href="{% url 'article:article_column' %}">Article</a></li>
+                <li><a href="{% url 'image:list_images' %}">Image</a></li>
+                <li><a href="{% url 'course:manage_course' %}">Course</a></li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right" style="margin-right: 10px">
+                <li><a href="{% url 'blog:blog_title' %}">HOME</a></li>
+                <li><span>{{ user.username }}</span></li>
+                <li><a href="{% url 'account:user_logout' %}">Logout</a></li>
+            </ul>
+        </div>
+    </nav>
+</div>
