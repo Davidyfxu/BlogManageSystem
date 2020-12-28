@@ -71,22 +71,23 @@ conda create -n test python==3.6
 
 # activate "test" py venv 
 conda activate test
-
-# running the url in any browser
-http://127.0.0.1:8000/blog/
 ```
 
 
 
 ### Running the django project
 
-```base
+```python
+# running django
 python manage.py runserver
+
+# running the url in any browser
+http://127.0.0.1:8000/blog/
 ```
 
 ### Running the Redis（Windows）
 
-```base
+```bash
 redis-server.exe redis.windows.conf
 ```
 
