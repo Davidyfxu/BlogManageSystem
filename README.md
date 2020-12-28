@@ -63,17 +63,30 @@ The following commands are the easiest way to run this web project.
 pip install -r requirements.txt
 ```
 
-**Tips: I strongly suggest you to create a new venv to install these python libs.**
+**Tips: I strongly suggest you to create a new venv before installing these python libs. Commands are below: ** 
+
+```python
+# create virtual environment "test"
+conda create -n test python==3.6 
+
+# activate "test" py venv 
+conda activate test
+
+# running the url in any browser
+http://127.0.0.1:8000/blog/
+```
+
+
 
 ### Running the django project
 
-```python
+```base
 python manage.py runserver
 ```
 
 ### Running the Redis（Windows）
 
-```
+```base
 redis-server.exe redis.windows.conf
 ```
 
