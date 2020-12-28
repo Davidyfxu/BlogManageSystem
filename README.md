@@ -31,11 +31,11 @@ This section is about 3 important pictures:
 2. Homepage about Blog System
 3. Subsystem navigation of other 4 parts in this project
 
-![Framework Diagram](./imgs/Multi-users Content Publishing System.png)
+![Framework Diagram](https://github.com/David-xyf/BlogManageSystem/blob/main/imgs/Multi-users%20Content%20Publishing%20System.png)
 
-![BlogHomepage](imgs\BlogHomepage.png)
+![BlogHomepage](https://github.com/David-xyf/BlogManageSystem/blob/main/imgs/BlogHomepage.png)
 
-![NavigationPage](imgs\NavigationPage.png)
+![NavigationPage](https://github.com/David-xyf/BlogManageSystem/blob/main/imgs/NavigationPage.png)
 
 
 
