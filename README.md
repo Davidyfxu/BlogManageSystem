@@ -15,7 +15,7 @@
 
 ## General info
 
-Blog Manage System is a web project that achieve online writing articles, publishing articles and upload various files, such as images, photos, videos and so on, and exchanging ideas or comments between users. This django project implements most functions of blog websites and even it could add the Pub/Sub functions like Youtube or twitter. I think it's a good way for new nerd to broaden the opinion about backend jobs and improve the coding ability.
+Blog Manage System is a web project that achieves online writing articles, publishing articles and uploading various files, such as images, photos, videos and so on, and exchanging ideas or comments between users. This django project implements most functions of blog websites and even it could add the Pub/Sub functions like Youtube or twitter. I think it's a good way for new nerds to broaden opinions about backend jobs and improve the coding ability.
 
 This project is aimed for the practice of the backend framework *Django* and learning basic frontend knowledge  of *HTML*. This project is programmed basing on Django and HTML, and some functions need running with Redis. I draw the diagram below to show my project from the top level.
 
@@ -69,7 +69,7 @@ pip install -r requirements.txt
 # create virtual environment "test"
 conda create -n test python==3.6 
 
-# activate "test" py venv 
+# activate "test" py venv
 conda activate test
 ```
 
@@ -78,7 +78,7 @@ conda activate test
 ### Running the django project
 
 ```python
-# running django
+# running django in folder "../BlogManageSystem"
 python manage.py runserver
 
 # running the url in any browser
@@ -99,7 +99,7 @@ For Mac/Linux, you can search the way of how to use redis from website.(it's eas
 
 ## Code Examples
 
-I just upload all my code in my github repo.
+I just upload all my codes in my github repo.
 
 
 
@@ -115,7 +115,7 @@ To-do list:
 * Push this django project into the cloud server, such as Heroku, AWS and etc. 
 * Transfer data from sqlite to other databases, like Mysql.
 
-If you can achieve it or extend to implement other functions, please email to me and let me know your solutions.
+If you can achieve it or extend to implement other functions, please send email to me and let me know your solutions.
 
 
 
