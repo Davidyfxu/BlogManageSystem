@@ -57,7 +57,14 @@ This section is about 3 important pictures:
 
 The following commands are the easiest way to run this web project.
 
-### requirements.txt
+### Clone the repo and go to the folder
+
+```bash
+git clone https://github.com/David-xyf/BlogManageSystem.git
+cd BlogManageSystem
+```
+
+### Use requirements.txt to install PyLibs
 
 ```bash
 pip install -r requirements.txt
@@ -73,15 +80,13 @@ conda create -n test python==3.6
 conda activate test
 ```
 
-
-
 ### Running the django project
 
 ```python
 # running django in folder "../BlogManageSystem"
 python manage.py runserver
 
-# running the url in any browser
+# running the url in any browser (maybe aother port number)
 http://127.0.0.1:8000/blog/
 ```
 
